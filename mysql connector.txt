@@ -1,0 +1,7 @@
+https://mvnrepository.com/ 사이트 접속
+
+Tomcat JSP API 검색 -> 11.0.15 ->gradle : groovy short 복사하기
+
+프로젝트 폴더 밑에 build.gradle 클릭해서 dependencies안에 붙여넣기
+
+mysql connector j 검색 -> MySQL Connector/J -> jar파일 받아서 -> 프로젝트에 WEB-INF 안에 lib폴더 만들고 lib폴더 안에 붙여넣기
